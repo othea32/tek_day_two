@@ -22,13 +22,13 @@ li:last-child:hover {
  cursor: pointer;
 }
 
-li:nth-child(4) {
+li:nth-child(25) {
  font-size: 30px;
  color: purple;
  border: 1px solid green;
 }
 
-li:nth-child(4):hover {
+li:nth-child(25):hover {
  color: red;
  cursor: pointer;
 }
